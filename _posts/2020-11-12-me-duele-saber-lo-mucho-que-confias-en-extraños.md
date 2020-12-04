@@ -4,5 +4,5 @@ tags: [Cybersecurity, Innovation, Hacking, Software Engineering]
 style:
 color: 
 description: A Harold Dolores, un hombre común y corriente que se encuentra caminando por la calle, lo aborda un completo desconocido y le pregunta...
-external_url: https://blog.usejournal.com/how-to-undo-your-git-failure-b76e31ecac74
+external_url: https://medium.com/bancolombia-tech/me-duele-saber-lo-mucho-que-conf%C3%ADas-en-extraños-querido-mundo-tecnológico-692aebd2ea32
 ---
