@@ -14,3 +14,20 @@ main {
 .about {
     text-align: justify;
 }
+
+.bc-logos {
+    width: 134px;
+    margin-left: 24px;
+}
+
+.item {
+    text-decoration: none;
+}
+
+.link-after, .nav-link::after, .navbar-brand::after, .nav-item.active::after {
+    background: #ffcf01;
+}
+
+.navbar {
+    background-color: white;
+}
