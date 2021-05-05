@@ -2,6 +2,22 @@
 ---
 
 @import "portfolYOU";
+body.projects {
+  background-image: url("https://galatea-dev.apps.ambientesbc.com/2.0.1/assets/icons/strokes/05.svg");
+  background-repeat: no-repeat;
+  background-size: contain;
+  background-color: #fff;
+}
+
+body.about {
+  background-image: url("https://galatea-dev.apps.ambientesbc.com/2.0.1/assets/icons/strokes/01.svg");
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-color: #fff;
+}
+.navbar-nav .nav-link {
+  text-transform: capitalize;
+}
 main {
   padding-top: 8vh;
   padding-bottom: 5vh;
