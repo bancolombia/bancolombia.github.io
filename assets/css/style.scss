@@ -1,33 +1,43 @@
 ---
 ---
+
 @import "portfolYOU";
-
-h1 {
-    color: #ffcf01;
-}
-
 main {
-    padding-top: 8vh;
-    padding-bottom: 5vh;
+  padding-top: 8vh;
+  padding-bottom: 5vh;
 }
 
 .about {
-    text-align: justify;
+  text-align: justify;
 }
 
 .bc-logos {
-    width: 134px;
-    margin-left: 24px;
+  width: 134px;
+  margin-left: 24px;
 }
 
 .item {
-    text-decoration: none;
+  text-decoration: none;
 }
 
-.link-after, .nav-link::after, .navbar-brand::after, .nav-item.active::after {
-    background: #ffcf01;
+.link-after,
+.nav-link::after,
+.navbar-brand::after,
+.nav-item.active::after {
+  background: #ffd200;
 }
 
 .navbar {
-    background-color: white;
+  background-color: white;
+}
+.bg-primary {
+  background-color: #00448d !important;
+}
+.border-primary {
+  border-color: #00448d !important;
+}
+
+.btn-outline-primary {
+  color: #00448d;
+  border-color: #00448d;
 }
