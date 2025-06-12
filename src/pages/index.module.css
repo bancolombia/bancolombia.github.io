@@ -1,0 +1,45 @@
+/**
+ * CSS files with the .module.css suffix will be treated as CSS modules
+ * and scoped locally.
+ */
+ .background-img {
+    position: relative;
+    background-image: url(./static/img/home-image.png);
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    max-height: 100vh;
+    min-height: 60vh;
+  }
+  
+  .background-img.con::after {
+    content: "";
+    width: 100%;
+    /* El height controla el alto del degradado */
+    height: 500px;
+    position: absolute;
+    left: 0;
+    /* Puedes cambiar la posición del degrado desde aquí */
+    bottom: 0;
+    background: linear-gradient(transparent, #000000ec);
+  }
+  
+  .stroke{
+      bottom: 0;
+      right: 0;
+      position: absolute;
+    }
+  
+    .bg-dark{
+      display: flex;
+      height: 100%;
+      min-height: 20vh;
+      flex-direction: column;
+      background-color: black;
+    }
+  
+    .text-decoration{
+      text-decoration: none;
+    }
+  
+    
