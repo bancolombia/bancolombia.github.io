@@ -83,7 +83,7 @@ Al realizar contribuciones a nuestros proyectos Open Source, deberás trabajar a
 
 La documentación base de un proyecto OpenSource es fundamental para asegurar que todos los colaboradores comprendan y puedan contribuir eficazmente al proyecto. Esta documentación debe incluir: Información funcional , Documentación Técnica , Estándares , políticas , guías de contribución. 
 
-Para ampliar la información de esta documentación puedes ingresar a la pagina: 👉[Documentacion-Base](Documentacion-Base/_category_.json)
+Para ampliar la información de esta documentación puedes ingresar a la pagina: 👉[Documentacion Base](documentacion-base.md)
 
 ## Plantillas de Pull-Request 📋📤
 La comunidad Bancolombia determino algunas plantillas que seran automaticamente cargadas en cada uno de los procesos que lo necesiten, de manera que sea mas eficiente y determinista el proceso OpenSource. 
