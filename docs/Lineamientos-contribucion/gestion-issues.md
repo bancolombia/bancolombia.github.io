@@ -46,7 +46,7 @@ Para más información acerca el contenido de etiquetas o labels, is a la sesió
 ## Modificación de Issues
 
 Luego de crear correctamente un issue, podremos listar y ver el issue creado en la bandeja principal del menú de Issues. 
-Si deseamos editar o modificar el issue por alguna razón podremos hacerlo por medio de la opción “Editar Issue” que encontraremos solo si ingresamos a la issuey nos dirigimos a la opción de tres puntos ubicada debajo del título de la issue y este mostrara la opción “Edit”.
+Si deseamos editar o modificar el issue por alguna razón podremos hacerlo por medio de la opción “Editar Issue” que encontraremos solo si ingresamos a la issue y nos dirigimos a la opción de tres puntos ubicada debajo del título de la issue y este mostrara la opción “Edit”.
 
 ![alt text](img-gestion-issues/image-8.png)
 
@@ -77,10 +77,10 @@ Una issue de GitHub permite asociar diferentes estados para dar trazabilidad de 
 1.	Open (Abierto): El estado por default que tenemos en todas las issue al ser creadas es Open, dicho estado, indica que la issue se encuentra en estado activa para darle gestión y desarrollo.
 
 
-2.	Closed (Cerrado):  El estado cerrado, es el estado que nos permite asignar la issue, cuando entendamos que la issue fue gestionada y desarrollada hasta su fin, donde en la cual no hace falta mas aportes o aprobaciones, el usuario le asigne Close para notificar la issue como cerrada y finalizada, adicionalmente el estado cerrado, nos permite especificar el tipo de Close que queremos darle a la issue según su gestión, y son las siguientes.
+2.	 Closed (Cerrado):  El estado cerrado, es el estado que nos permite asignar la issue, cuando entendamos que la issue fue gestionada y desarrollada hasta su fin, donde en la cual no hace falta mas aportes o aprobaciones, el usuario le asigne Close para notificar la issue como cerrada y finalizada, adicionalmente el estado cerrado, nos permite especificar el tipo de Close que queremos darle a la issue según su gestión, y son las siguientes.
 
 a.	Close as completd (Cerrar como completado): usamos este tipo de Close, cuando nuestra issue este completado satisfactoriamente y no haya más nada que desarrollar y cumplan con las aprobaciones pertinentes.
 
-b.	Cloase as not planned (Cerrar como no planeado): usamos este tipo de Close, cuando queremos dar entender que la issue fue cerrada por motivos que no será abordada dentro de la planificación del equipo o no será tenida en cuenta actualmente dentro de la capacidad del equipo de trabadores.
+b.	Close as not planned (Cerrar como no planeado): usamos este tipo de Close, cuando queremos dar entender que la issue fue cerrada por motivos que no será abordada dentro de la planificación del equipo o no será tenida en cuenta actualmente dentro de la capacidad del equipo de trabadores.
 
 c.	Close as duplicate (Cerrar como duplicado): usamos este tipo de Close, cuando queremos indicar que la issue fue cerrada por motivo de contenido duplicado es decir, existe otra issue que manifiesta la misma solicitud que la issue cerrada, dando entender que no amerita mantener una segunda issue repetida o que busca la misma finalidad de otra ya existente, por el bien de mantener un orden y buena administración en el tablero de issue, se procede a cerrarla bajo esta especificación.
