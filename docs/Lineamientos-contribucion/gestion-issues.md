@@ -1,5 +1,5 @@
 ---
-sidebar_position: 3
+sidebar_position: 1
 ---
 # Gestión de Issues
  
@@ -31,7 +31,7 @@ Para proceder a crear un nuevo Issues se debe dar clic en la opción “New issu
 5. Al diligenciar la informaciónde la plantilla predefinida, por ejemplo: Describir el problema, explicar que pasos se deban hacer para visualizar el problema, etc. 
 La plantilla seleccionada viene aprovisionada con ciertas etiquetas o labels recomendados para facilitar la interpretación del issue a crear, por ejemplo se visualizara las etiquetas “c: bug” y “g: in triage” teniendo en cuenta que son opcionales y se pueden añadir más etiquetas disponibles desde el módulo de labels o retirarlos si no se consideran acordes a la descripción de la issue. 
 
-Para más información acerca el contenido de etiquetas o labels, is a la sesión de documentación [Etiquetado de Issues](etiquetas-issues.md)
+Para más información acerca el contenido de etiquetas o labels, ve a la sesión de documentación [Etiquetado de Issues](etiquetas-issues.md)
 
  ![alt text](img-gestion-issues/image-5.png) 
 
