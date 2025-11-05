@@ -31,7 +31,7 @@ y sin más preámbulos iniciemos este viaje Open Source Bancolombia...
   * [Estándar de commits](Lineamientos-contribucion/estandar-commits.md)
   * [Template de Pull Request](Lineamientos-contribucion/template-pr.md)
 
-* [Como ser](/docs/category/Como-ser)
+* [Como ser](/docs/category/como-ser)
   * [Como convertirse Maintainer](Como-ser/como-convertirse-maintainer.md)
   * [Como convertirse Trusted Committer](Como-ser/como-convertirse-trusted-committer.md)
   
