@@ -1,5 +1,5 @@
 ---
-sidebar_position: 3
+sidebar_position: 1
 ---
 
 # Etiquetado de Issues 
@@ -57,15 +57,10 @@ r: prefijo de la palabra “resolución”, son etiquetas de cierre para dar por
 <span class="red label">__*r: wontfix*__</span> caso cerrado porque no será solucionado. 
 
 
-# Hablemos más sobre el proceso de Triaje 
+## Proceso de Triaje 
 
 Triaje es el estado inicial que obtiene todo issue o reporte creado en GitHub, la cual es el primer filtro antes de ser atendida por un colaborador. Es la validación inicial con base a los argumentos y validar su urgencia para luego otorgar una clasificación y asignación de demás etiquetas descriptivas. El proceso de triaje como primer paso de cada reporte nos permite depurar, filtrar, identificar, reportes mal creados, falta de argumentación, duplicados, críticos, urgentes para luego proceder a la atención adecuada. 
 
 A nivel de comunidad o de proyecto, este primer control en las issues, nos permite darle un manejo sólido y transparente de los tiques que son escalados y poder dar solución y mejor manejo de tiempos a responder las peticiones recibidas según la urgencia merecida gracias a la clasificaron asignada por el proceso de triaje. 
 
-Cabe mencionar que quienes realizan este análisis de triaje son los miembros de la comunidad que ejercen el rol de “Maintainer”. 
-
-
-# ¿Qué es un Maintainer en GitHub? 
-
-El Maintainer es el miembro del equipo cuyo rol es dar mantenimiento del repositorio y garantizar el correcto flujo y administración del proyecto GitHub, por ejemplo, funciones como: garantizar el cumplimiento de las políticas de versiones, pull request, despliegues, llaves, aprobar peticiones o solicitudes de la comunidad del proyecto, entre otras. 
+Cabe mencionar que quienes realizan este análisis de triaje son los miembros de la comunidad que ejercen el rol de “Maintainer”.
