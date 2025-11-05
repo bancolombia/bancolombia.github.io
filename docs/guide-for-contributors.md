@@ -64,8 +64,8 @@ Puede validar las plantillas actuales en 👉[Template PR](Lineamientos-contribu
 ## Definición de roles y responsabilidades 📜
 Cada proyecto opensource tendra personas con roles específicos como `Project Lead`, `Manteiner` o `Contributor`, que son fundamentales para la seguridad, como para la eficiencia en el trabajo en equipo en un proyecto OpenSource. 
  
-Para conocer mas sobre los roles dirígete a: 
-👉 [Roles Open Source](Gobierno/roles-and-responsibilities.md).
+Para conocer mas sobre como convertiser en Maintainer o Trusted Committer: 
+👉 [Como ser](/docs/category/Como-ser).
 
 ## Canales de comunicación 📧💻
 Puedes comunicarte mediante el correo oficial del equipo de Open Source: 
