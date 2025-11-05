@@ -21,17 +21,17 @@ y sin más preámbulos iniciemos este viaje Open Source Bancolombia...
 ## Tabla de Contenido
 
 * [Introducción](intro.md)
-* [Conceptos Clave](concepts-doc.md)
 * [Guía para Contribuidores](guide-for-contributors.md)
-* [Documentación-Base](documentacion-base.md)
-
-* [Gobierno](/docs/category/gobierno)
-  * [Introducción a Gobierno](Gobierno/introduction.md)
-  * [Roles Open Source](Gobierno/roles-and-responsibilities.md)
+* [Documentación Base](documentacion-base.md)
 
 * [Lineamientos de Contribución](/docs/category/lineamientos-de-contribución)
   * [Tipos de Issues](Lineamientos-contribucion/tipos-issue.md)
   * [Etiquetado de Issues](Lineamientos-contribucion/etiquetas-issues.md)
+  * [Gestión de Issues](Lineamientos-contribucion/gestion-issues.md)
   * [Estándar de commits](Lineamientos-contribucion/estandar-commits.md)
   * [Template de Pull Request](Lineamientos-contribucion/template-pr.md)
+
+* [Gobierno](/docs/category/gobierno)
+  * [Introducción a Gobierno](Gobierno/introduction.md)
+  * [Roles Open Source](Gobierno/roles-and-responsibilities.md)
   
