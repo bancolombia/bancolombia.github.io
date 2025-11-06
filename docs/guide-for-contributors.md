@@ -14,17 +14,17 @@ El repositorio de la comunidad Bancolombia esta abierto al publico con multiples
 Podras navegar y buscar proyectos en los cuales tengas interes. 
 Luego de encontrar un proyecto, puedes seguir el siguiente flujo de contribución:
 
-1. Haz clic en el botón 'Fork' en la esquina superior derecha del proyecto en el cual estas interesado en contribuir.
+1. Valida la rama existente en la cual realizaras tus cambios, seleccionala y haz clic en el botón 'Fork' en la esquina superior derecha del proyecto.
 
 2. Clona tu copia del repositorio a tu máquina local.
 
-3. Crea o selecciona un Issue por resolver, esperar por aprobación y asignación.
+3. Crea o selecciona un Issue por resolver, debe generar "discusión" informando su interés en solucionar el issue. De allí, el equipo debe responder si lo acepta y si asigna la capacidad.
 
 4. Crea una rama para tu característica o arreglo de bug. Es importante que el nombre de la rama sea descriptivo del cambio que estás realizando.
 
 5. Haz los cambios necesarios en tu rama. Haz commit de tus cambios y sube tu rama a GitHub.
 
-6. Ve a la página de Pull Requests en el repositorio original y crea un nuevo Pull Request desde tu rama.
+6. Ve a la página de Pull Requests en el repositorio original y crea un nuevo Pull Request desde tu rama a la rama correspondiente.
 
 ## Flujo de Contribución ✨
 ![FlujoContribuidor](img/contributor_flow.png)
@@ -44,17 +44,41 @@ Para más detalle de como  gestionar issues: desde su creación, etiquetado y di
 
 ## Estructura y uso de branches 🌳
 
-Al realizar contribuciones a nuestros proyectos Open Source, deberás trabajar a partir de una copia (fork) del proyecto en el que estés colaborando. En estos casos, tendrás la responsabilidad de adoptar un flujo de trabajo estructurado; te recomendamos utilizar **Trunk-based**, un modelo que emplea principalmente tres tipos de ramas:
+Al realizar contribuciones a nuestros proyectos Open Source, **deberás trabajar a partir de una copia (fork)** del proyecto en el que estés colaborando. En estos casos, tendrás la responsabilidad de adoptar un flujo de trabajo estructurado; te recomendamos utilizar **Trunk-based**, un modelo que emplea principalmente tres tipos de ramas:
 
 * `trunk o main`: Unica rama principal, donde se integran cambios directamente.
 * `release` : Versiones liberadas.
-* `feature/*`: Destinadas al desarrollo de nuevas funcionalidades o mejoras específicas.
 
 ## Documentación inicial 📋
 
-La documentación base de un proyecto OpenSource es fundamental para asegurar que todos los colaboradores comprendan y puedan contribuir eficazmente al proyecto. Esta documentación debe incluir: Información funcional , Documentación Técnica , Estándares , políticas , guías de contribución. 
+La documentación base de un proyecto OpenSource es fundamental para asegurar que todos los colaboradores comprendan y puedan contribuir eficazmente al proyecto. Esta documentación debe incluir: Información funcional, Documentación Técnica, Estándares, políticas, guías de contribución.
 
-Para ampliar la información de esta documentación puedes ingresar a la pagina: 👉[Documentación Base](documentacion-base.md)
+Existen algunos tipos de archivos que nos permitiran manejar documentación dentro de los proyectos de la comunidad Open Source Bancolombia, como los son:
+
+**README** 📋
+
+Un archivo `README.md` es un documento de texto utilizado principalmente en repositorios de código fuente para proporcionar información esencial sobre el proyecto. El nombre "README" implica que este archivo debe ser leído primero por los usuarios y contribuidores para comprender la naturaleza y el propósito del proyecto. La extensión .md indica que el archivo está escrito en Markdown, un lenguaje de marcado ligero que permite formatear texto con encabezados, listas, enlaces, y otros elementos de forma sencilla.
+
+**LICENSE** 📋
+
+El archivo `LICENSE.md` contiene la licencia y las restricciones de uso para el código fuente, al tratarse repositoros open Source esta abierto a licencias que pueden permitir, el uso, modificacion, copia, etc. del Código fuente, como por ejemplo (MIT license, Apache-2.0 license).
+
+Además, el documento proporciona un correo electrónico de contacto para preguntas o comentarios sobre su contenido.
+
+**CODE_OF_CONDUCT** 📋
+
+Este archivo `CODE_OF_CONDUCT.md` establece las normas de comportamiento y conducta esperadas tanto para los contribuidores como para los usuarios del proyecto. El código de conducta tiene como objetivo fomentar un ambiente colaborativo, inclusivo y respetuoso para todos los participantes involucrados.
+
+**CONTRIBUTING** 📋
+
+El archivo `CONTRIBUTING.md` es un documento que se encuentra en la raíz de un repositorio de código y tiene como objetivo ayudar a los contribuidores a entender cómo pueden participar en el proyecto. Define las expectativas, procedimientos y reglas que deben seguirse para contribuir de manera efectiva y respetuosa. Guía de manera practica a nuevos contribuidores y explica detalladamente el flujo del proyecto, permitiendo que sea facíl de entener y de iniciar a contriuir.
+
+Una guía de contribución de proyecto abarca la estructuración de la propuesta, la planificación detallada y la ejecución, seguimiento de las actividades, la definición clara del proyecto, sus objetivos, el equipo y la metodología.
+
+**GETTINGSTARTED** 📋
+
+El archivo `GETTINGSTARTED.md` es una guía que proporciona instrucciones para configurar el entorno local del proyecto. Incluye una lista de las herramientas de software necesarias y una guía paso a paso para la instalación.
+
 
 ## Plantillas de Pull-Request 📋📤
 Para la comunidad Bancolombia se determino algunas plantillas que seran automaticamente cargadas en cada uno de los procesos que lo necesiten, de manera que sea mas eficiente el proceso. 
@@ -64,12 +88,12 @@ Puede validar las plantillas actuales en 👉[Template PR](Lineamientos-contribu
 ## Definición de roles y responsabilidades 📜
 Cada proyecto opensource tendra personas con roles específicos como `Project Lead`, `Manteiner` o `Contributor`, que son fundamentales para la seguridad, como para la eficiencia en el trabajo en equipo en un proyecto OpenSource. 
  
-Para conocer mas sobre como convertiser en Maintainer o Trusted Committer: 
+Para conocer mas sobre como convertirse en **Maintainer** o **Trusted Committer**: 
 👉 [Como ser](category/como-ser).
 
 ## Canales de comunicación 📧💻
 Puedes comunicarte mediante el correo oficial del equipo de Open Source: 
 
-👉 opensource@bancolombia.com.co
+👉 oficina_open_source@bancolombia.com.co
 
 Este canal está disponible para consultas generales, solicitudes de apoyo o para escalar temas que requieran atención específica.
