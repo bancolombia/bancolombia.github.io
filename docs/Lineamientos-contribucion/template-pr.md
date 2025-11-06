@@ -19,6 +19,12 @@ La **plantilla de PR** consta de dos secciones principales:
 
 2. **Issues Relacionados:** Esta sección, en formato de entrada de texto, permite al desarrollador especificar los issues que el **PR** resuelve. Se utiliza una sintaxis específica (por ejemplo, `resolve #123`) para vincular el **PR** con los issues correspondientes. Esto permite que los issues se cierren automáticamente una vez que el **PR** sea aceptado y fusionado.
 
+## Plantilla
+
+---
+
+![Plantilla_PR](plantillaPR.png)
+
 ## Uso de la Plantilla
 
 ---
