@@ -3,7 +3,7 @@ sidebar_position: 2
 ---
 # Trusted Committer
 
-Un "Trusted Committer" es un rol en comunidades de código abierto y InnerSource. Es una persona confiable y experimentada que mentoriza a otros contribuidores, garantiza la calidad técnica del producto, revisa el código y ayuda a que las contribuciones se integren al proyecto. El rol es vital para el éxito de los proyectos al asegurar la salud tanto del código como de la comunidad. 
+Un "Trusted Committer" es un rol en comunidades de código abierto. Es una persona confiable y experimentada que mentoriza a otros contribuidores, garantiza la calidad técnica del producto, revisa el código y ayuda a que las contribuciones se integren al proyecto. El rol es vital para el éxito de los proyectos al asegurar la salud tanto del código como de la comunidad. 
 
 # Responsabilidades:
 
