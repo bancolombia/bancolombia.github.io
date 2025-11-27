@@ -3,7 +3,7 @@ sidebar_position: 1
 ---
 # Maintainer
 
-Un maintainer de proyecto open source es la persona responsable de supervisar el desarrollo, el mantenimiento y el progreso general de un proyecto de software de código abierto. 
+Un maintainer de proyecto Open Source es la persona responsable de supervisar el desarrollo, el mantenimiento y el progreso general de un proyecto de software de código abierto. 
 Su función principal es asegurar que el software se mantenga funcional, seguro y alineado con las necesidades y objetivos definidos para la comunidad. 
 
 # Responsabilidades:
